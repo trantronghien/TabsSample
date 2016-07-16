@@ -23,3 +23,12 @@
 
 > sử dụng giống tabs thông thường nhưng vì nhu cầu cần nhiều tabs màn kích cỡ màn hình không cho phép nên ta dùng srollable tabs
 
+## 3. Tabs with Icon & Text </br>
+* [Icon & Text](https://github.com/trantronghien/Tabs_host/tree/master/Tabs_Icon) </br>
+ ![icontext](https://cloud.githubusercontent.com/assets/13708331/16893072/7a2d076e-4b55-11e6-9dba-1845c1154c0b.png)
+* [Icon Only](https://github.com/trantronghien/Tabs_host/tree/master/Tabs_Icon) </br>
+ ![onlyicon](https://cloud.githubusercontent.com/assets/13708331/16893076/87ad2c34-4b55-11e6-80fe-97b8cd1b88f2.png)
+* [Custom Tabs](https://github.com/trantronghien/Tabs_host/tree/master/Custom_tabs) </br>
+![customviewicontext](https://cloud.githubusercontent.com/assets/13708331/16893077/8fff25fe-4b55-11e6-93cb-600a93813086.png)
+
+
