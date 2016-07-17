@@ -6,12 +6,14 @@
 ![fulltabs](https://cloud.githubusercontent.com/assets/13708331/16866458/408a7e98-4a96-11e6-9a96-2ff9ff7ca75b.png) </br>
  + với 1 số thuộc tính thay đổi phần  app:tabGravity=”fill” </br>
 
-`<android.support.design.widget.TabLayout
+```
+<android.support.design.widget.TabLayout
             android:id="@+id/tabs"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             app:tabMode="fixed" 
-            app:tabGravity="fill"/>` </br>
+            app:tabGravity="fill"/>
+``` 
             
 ###* Center Aligned Tabs </br>
 ![centertabs](https://cloud.githubusercontent.com/assets/13708331/16866712/af89bae2-4a97-11e6-92fa-ba5e5d5eaa0f.png)
@@ -34,10 +36,12 @@
 * ### Một Số Chú Ý </br>
 ![loi_style](https://cloud.githubusercontent.com/assets/13708331/16894480/a2f65106-4b81-11e6-9995-a58e1e9671e8.png)
 + thêm  2 item này vào style nếu thiếu sẽ gặp lỗi như trên </br>
-        `<item name="windowNoTitle">true</item>
-        <item name="windowActionBar">false</item>`
-+ add Thư Viện hỗ trợ 'com.android.support:design:23.0.1;' nếu sử dụng các mẫu tabs này </br>
-thêm phần compile 'com.android.support:design:23.0.1' vào dependencies trong gradle '23.0.1' tùy theo thư viện có sẵn trong đường dẫn 'Android\sdk\build-tools'
+        ```
+           <item name="windowNoTitle">true</item>
+           <item name="windowActionBar">false</item>
+        ```
++ add Thư Viện hỗ trợ ` 'com.android.support:design:23.0.1;' ` nếu sử dụng các mẫu tabs này </br>
+thêm phần compile `'com.android.support:design:23.0.1'` vào `dependencies` trong gradle ` '23.0.1' ` tùy theo thư viện có sẵn trong đường dẫn ` 'Android\sdk\build-tools' `
 
 ###Cách Tạo fonts.xml (21v) và style.xml (21v) </br>
 + res => new => android resource file </br>
