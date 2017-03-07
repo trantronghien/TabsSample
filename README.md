@@ -57,7 +57,7 @@ thêm phần compile `'com.android.support:design:23.0.1'` vào `dependencies` t
 + xhdpi 64 x 64
 + xxhdpi 94 x 94
 
-[link tham khảo](http://www.androidhive.info/2015/09/android-material-design-working-with-tabs/)
+[Tab khác](https://github.com/ogaclejapan/SmartTabLayout)
 
 
 
